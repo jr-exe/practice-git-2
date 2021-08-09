@@ -1,0 +1,5 @@
+1. - 11
+2. - 10 Oct 2012
+3. - Pavel Tsaregorodtsev
+4. - Хеш: 3b128fa1c6b96c9be4aed5b2bcf777537d752c5e
+     Ссылка: https://github.com/express42/zabbixapi/commit/3b128fa1c6b96c9be4aed5b2bcf777537d752c5e
